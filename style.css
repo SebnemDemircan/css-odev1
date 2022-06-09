@@ -1,0 +1,56 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+nav{
+    color: blueviolet;
+    position: relative;
+    list-style: none;
+    text-align: center;
+   
+   
+}
+nav li{
+    color: blueviolet;
+    display: inline;
+    margin: 5px;
+    font-size: 18px;
+} 
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.urunlerimiz{
+    font-size: 20px;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li{
+    position: relative;
+    text-align: center;
+    display: block;
+    margin:25px;
+    
+}
+ol li img
+{
+    width: 250px;
+    height: 400px;
+}
+.hakkimizda{
+    font-size: 20px;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color: darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yazi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
